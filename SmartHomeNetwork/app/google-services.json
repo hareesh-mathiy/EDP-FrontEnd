@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "32063878401",
+    "firebase_url": "https://smartnetwork-df73f.firebaseio.com",
+    "project_id": "smartnetwork-df73f",
+    "storage_bucket": "smartnetwork-df73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32063878401:android:42a9ce4d19a22b5a",
+        "android_client_info": {
+          "package_name": "com.edp.hareesh.smarthomenetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32063878401-31f7gd223pplehpbvl11jaa0p12518lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edp.hareesh.smarthomenetwork",
+            "certificate_hash": "00c7029496426e84bdaf36805c38b469c574be69"
+          }
+        },
+        {
+          "client_id": "32063878401-j4vesl7mv745d96o7eeog8ueq1iv9ul5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edp.hareesh.smarthomenetwork",
+            "certificate_hash": "fd20f536b88fa36a457e60c39b82707ac6d8f94d"
+          }
+        },
+        {
+          "client_id": "32063878401-1bppi5abbnhbrnlng9i9hccog89scj25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOulb5Bko-ZWfKgFITGaGOvbjhldkT0GI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32063878401-1bppi5abbnhbrnlng9i9hccog89scj25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
